@@ -11,7 +11,8 @@ namespace JogoDaVelha
         public List<Jogador> Jogadores = new List<Jogador>();
         public Peca[,] Pecas;
 
-        public void CriarJogo()
+        //Método para criar o jogo, inicializa uma matriz 3x3 de peças
+        public void CriarJogo()                                                 
         {
             Pecas = new Peca[Linhas, Colunas];
 
@@ -24,6 +25,8 @@ namespace JogoDaVelha
             }
         }
 
+
+        //Método para mostrar na tela o tipo de peça em cada lugar da matriz
         private void Imprimir()
         {
             for (int i = 0; i < Linhas; i++)
@@ -37,6 +40,7 @@ namespace JogoDaVelha
             }
         }
 
+        //Método que cria 2 jogadores e controla o jogo
         public void Jogar()
         {
             var jogador1 = CriarJogador(new Circulo());
@@ -88,6 +92,7 @@ namespace JogoDaVelha
             }
         }
 
+        //Método para criar um jogador
         private Jogador CriarJogador(Peca tipo)
         {
             Console.WriteLine("Digite o nome do jogador: ");
@@ -97,12 +102,14 @@ namespace JogoDaVelha
             return jogador;
         }
 
+        //Método para gerar uma peça a cada jogada na posição especificada pelo jogador
         private bool GerarPeca(int coluna, int linha, Peca tipo)
         {
             Pecas[coluna, linha] = tipo;
             return true;
         }
 
+        //Método para verificar se uma peça já existe na posição especificada
         private bool VerificaPosicao(int coluna, int linha)
         {
             if (Pecas[coluna, linha].Verifica() == 0)
@@ -116,6 +123,7 @@ namespace JogoDaVelha
             }
         }
 
+        //Método para verificar se há um vencedor por linha
         private bool VerificaVencedorLinha()
         {
             if (Pecas[0, 0].Verifica() == 1 && Pecas[0, 1].Verifica() == 1 && Pecas[0, 2].Verifica() == 1 ||
@@ -130,6 +138,7 @@ namespace JogoDaVelha
             return false;
         }
 
+        //Método para verificar se há um vencedor por coluna
         private bool VerificaVencedorColuna()
         {
             if (Pecas[0, 0].Verifica() == 1 && Pecas[1, 0].Verifica() == 1 && Pecas[2, 0].Verifica() == 1 ||
@@ -144,6 +153,7 @@ namespace JogoDaVelha
             return false;
         }
 
+        //Método para verificar se há um vencedor por diagonal
         private bool VerificaVencedorDiagonal()
         {
             if (Pecas[0, 0].Verifica() == 1 && Pecas[1, 1].Verifica() == 1 && Pecas[2, 2].Verifica() == 1 ||
