@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\desenvolvimento103\\Desktop\\CSharp\\Aula3\\Exercicios\\exercicios\\JogoDaVelha.csproj": {}
+    "C:\\Users\\desenvolvimento103\\Desktop\\CSharp\\Aula3\\Exercicios\\JogoDaVelha\\JogoDaVelha.csproj": {}
   },
   "projects": {
-    "C:\\Users\\desenvolvimento103\\Desktop\\CSharp\\Aula3\\Exercicios\\exercicios\\JogoDaVelha.csproj": {
+    "C:\\Users\\desenvolvimento103\\Desktop\\CSharp\\Aula3\\Exercicios\\JogoDaVelha\\JogoDaVelha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\desenvolvimento103\\Desktop\\CSharp\\Aula3\\Exercicios\\exercicios\\JogoDaVelha.csproj",
+        "projectUniqueName": "C:\\Users\\desenvolvimento103\\Desktop\\CSharp\\Aula3\\Exercicios\\JogoDaVelha\\JogoDaVelha.csproj",
         "projectName": "JogoDaVelha",
-        "projectPath": "C:\\Users\\desenvolvimento103\\Desktop\\CSharp\\Aula3\\Exercicios\\exercicios\\JogoDaVelha.csproj",
+        "projectPath": "C:\\Users\\desenvolvimento103\\Desktop\\CSharp\\Aula3\\Exercicios\\JogoDaVelha\\JogoDaVelha.csproj",
         "packagesPath": "C:\\Users\\desenvolvimento103\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\desenvolvimento103\\Desktop\\CSharp\\Aula3\\Exercicios\\exercicios\\obj\\",
+        "outputPath": "C:\\Users\\desenvolvimento103\\Desktop\\CSharp\\Aula3\\Exercicios\\JogoDaVelha\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
