@@ -1,0 +1,14 @@
+C:\Users\desenvolvimento103\Desktop\CSharp\Aula3\Exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.csproj.AssemblyReference.cache
+C:\Users\desenvolvimento103\Desktop\CSharp\Aula3\Exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desenvolvimento103\Desktop\CSharp\Aula3\Exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.AssemblyInfoInputs.cache
+C:\Users\desenvolvimento103\Desktop\CSharp\Aula3\Exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.AssemblyInfo.cs
+C:\Users\desenvolvimento103\Desktop\CSharp\Aula3\Exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\desenvolvimento103\Desktop\CSharp\Aula3\Exercicios\exercicios\bin\Debug\netcoreapp3.1\exercicios.exe
+C:\Users\desenvolvimento103\Desktop\CSharp\Aula3\Exercicios\exercicios\bin\Debug\netcoreapp3.1\exercicios.deps.json
+C:\Users\desenvolvimento103\Desktop\CSharp\Aula3\Exercicios\exercicios\bin\Debug\netcoreapp3.1\exercicios.runtimeconfig.json
+C:\Users\desenvolvimento103\Desktop\CSharp\Aula3\Exercicios\exercicios\bin\Debug\netcoreapp3.1\exercicios.runtimeconfig.dev.json
+C:\Users\desenvolvimento103\Desktop\CSharp\Aula3\Exercicios\exercicios\bin\Debug\netcoreapp3.1\exercicios.dll
+C:\Users\desenvolvimento103\Desktop\CSharp\Aula3\Exercicios\exercicios\bin\Debug\netcoreapp3.1\exercicios.pdb
+C:\Users\desenvolvimento103\Desktop\CSharp\Aula3\Exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.dll
+C:\Users\desenvolvimento103\Desktop\CSharp\Aula3\Exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.pdb
+C:\Users\desenvolvimento103\Desktop\CSharp\Aula3\Exercicios\exercicios\obj\Debug\netcoreapp3.1\exercicios.genruntimeconfig.cache
