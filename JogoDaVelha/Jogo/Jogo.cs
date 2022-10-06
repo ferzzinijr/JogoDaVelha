@@ -158,7 +158,7 @@ namespace JogoDaVelha
         {
             if (Pecas[0, 0].Verifica() == 1 && Pecas[1, 1].Verifica() == 1 && Pecas[2, 2].Verifica() == 1 ||
                 Pecas[0, 2].Verifica() == 1 && Pecas[1, 1].Verifica() == 1 && Pecas[2, 0].Verifica() == 1 ||
-                Pecas[0, 2].Verifica() == 2 && Pecas[1, 1].Verifica() == 2 && Pecas[2, 0].Verifica() == 2 ||
+                Pecas[0, 0].Verifica() == 2 && Pecas[1, 1].Verifica() == 2 && Pecas[2, 2].Verifica() == 2 ||
                 Pecas[0, 2].Verifica() == 2 && Pecas[1, 1].Verifica() == 2 && Pecas[2, 0].Verifica() == 2)
             {
                 return true;
